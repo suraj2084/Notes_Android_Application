@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/98962/AndroidStudioProjects/Notes_app_MVVM/app/src/main/res/drawable/delete_indicator_shape.xml" value="0.151" />
+        <entry key="..\:/Users/98962/AndroidStudioProjects/Notes_app_MVVM/app/src/main/res/drawable/delete_sheet.xml" value="0.151" />
+        <entry key="..\:/Users/98962/AndroidStudioProjects/Notes_app_MVVM/app/src/main/res/drawable/edit_text_back.xml" value="0.151" />
+        <entry key="..\:/Users/98962/AndroidStudioProjects/Notes_app_MVVM/app/src/main/res/drawable/filter_select_shap.xml" value="0.151" />
+        <entry key="..\:/Users/98962/AndroidStudioProjects/Notes_app_MVVM/app/src/main/res/drawable/filter_shape.xml" value="0.151" />
+        <entry key="..\:/Users/98962/AndroidStudioProjects/Notes_app_MVVM/app/src/main/res/drawable/green.xml" value="0.151" />
+        <entry key="..\:/Users/98962/AndroidStudioProjects/Notes_app_MVVM/app/src/main/res/drawable/ic_search_black_24dp.xml" value="0.1" />
+        <entry key="..\:/Users/98962/AndroidStudioProjects/Notes_app_MVVM/app/src/main/res/drawable/no_delete.xml" value="0.151" />
+        <entry key="..\:/Users/98962/AndroidStudioProjects/Notes_app_MVVM/app/src/main/res/drawable/red.xml" value="0.151" />
+        <entry key="..\:/Users/98962/AndroidStudioProjects/Notes_app_MVVM/app/src/main/res/drawable/yellow.xml" value="0.151" />
+        <entry key="..\:/Users/98962/AndroidStudioProjects/Notes_app_MVVM/app/src/main/res/drawable/yes_delete.xml" value="0.151" />
+        <entry key="..\:/Users/98962/AndroidStudioProjects/Notes_app_MVVM/app/src/main/res/layout/activity_insert.xml" value="0.1" />
+        <entry key="..\:/Users/98962/AndroidStudioProjects/Notes_app_MVVM/app/src/main/res/layout/activity_main.xml" value="0.24260355029585798" />
+        <entry key="..\:/Users/98962/AndroidStudioProjects/Notes_app_MVVM/app/src/main/res/layout/activity_splash_screen.xml" value="0.16576086956521738" />
+        <entry key="..\:/Users/98962/AndroidStudioProjects/Notes_app_MVVM/app/src/main/res/layout/activity_update_notes.xml" value="0.16576086956521738" />
+        <entry key="..\:/Users/98962/AndroidStudioProjects/Notes_app_MVVM/app/src/main/res/layout/delete_button_sheet.xml" value="0.16576086956521738" />
+        <entry key="..\:/Users/98962/AndroidStudioProjects/Notes_app_MVVM/app/src/main/res/layout/item_list.xml" value="0.16576086956521738" />
+        <entry key="..\:/Users/98962/AndroidStudioProjects/Notes_app_MVVM/app/src/main/res/menu/menu.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/98962/AndroidStudioProjects/Notes_app_MVVM/app/src/main/res/menu/search_menu.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
