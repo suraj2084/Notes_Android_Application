@@ -23,10 +23,6 @@ public class NotesAdpter extends RecyclerView.Adapter<NotesAdpter.notesViewHolde
     List<notes> notes;
     List<notes> allNotesItem;
 
-//    public NotesAdpter(MainActivity mainActivity, List<com.example.android.notes_app_mvvm.model.notes> notes) {
-//        this.mainActivity=mainActivity;
-//        this.notes=notes;
-//    }
     public NotesAdpter(MainActivity mainActivity, List<notes> notes) {
         this.mainActivity=mainActivity;
         this.notes=notes;
